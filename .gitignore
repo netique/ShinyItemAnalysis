@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Rbuildignore
+renv.lock
+
+inst/shiny-examples/ShinyItemAnalysis/www/Thumbs.db
+renv
+.Rdata
+.httr-oauth
+.DS_Store
